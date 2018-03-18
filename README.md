@@ -6,7 +6,7 @@ A Node.js package that checks whether a given string is null or empty. A basic p
 
 First, install the package using npm:
 
-    npm install is-null-or-empty --save
+    npm install drive.ncaung --save
 
 Then, require the package and use it like so:
 
