@@ -1,0 +1,19 @@
+{
+  "name": "bitbucket-snippet",
+  "version": "1.0.0",
+  "description": "A command-line tool for creating Bitbucket snippets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NC",
+  "license": "Apache-2.0",
+  "bin": {
+    "snippet": "./index.js"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.0"
+  }
+}
